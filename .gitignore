@@ -1,0 +1,11 @@
+# Ignorar dependências de node_modules (se usar NPM)
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de sistema do MacOS
+.DS_Store
+
+# Ignorar arquivos temporários
+*.tmp
