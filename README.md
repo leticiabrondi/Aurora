@@ -7,12 +7,6 @@
 - Seleção de emoções que alteram o ambiente visual e sonoro.
 - Experiência personalizada de introspecção e expressão emocional.
 
-## Como Usar
-
-1. Faça o download ou clone este repositório.
-2. Abra o arquivo `index.html` em um navegador para testar a aplicação.
-3. Selecione uma emoção no dropdown e veja como o ambiente muda.
-
 ## Tecnologias Utilizadas
 
 - **HTML**
